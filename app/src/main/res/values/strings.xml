@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Comics</string>
+    <string name="close">Close</string>
+    <string name="details_header_title">The Story</string>
+    <string name="content_comic_cover">Comic Cover</string>
+    <string name="read_now">Read Now</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="add_to_library">Add to library</string>
+    <string name="read_offline">Read offline</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
